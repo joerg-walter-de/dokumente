@@ -1,6 +1,6 @@
-# Beitragsordnung
+# Membership Fee Regulations
 
-Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung beschlossen:
+The executive commitee of Welcome Werkstatt e. V. has decided the following membership fee regulations:
 
 1. Mitgliedsgebühren
     1. Alle Vereinsmitglieder – sowohl Fördermitglieder als auch ordentliche Mitglieder mit Stimmrecht – zahlen einen Mitgliedsbeitrag. Der Mitgliedsbeitrag wird monatlich berechnet.
@@ -58,5 +58,7 @@ Der Vorstand des Vereins Welcome Werkstatt e. V. hat folgende Beitragsordnung be
 
     3. Diese Beitragsordnung kann bei Notwendigkeit vom Vorstand per Beschluss geändert werden. Der Vorstand hat Änderungsbeschlüsse bezüglich dieser Beitragsordnung unverzüglich per E-Mail an alle Mitglieder mit bekannter E-Mail-Adresse sowie zusätzlich in der nächsten Mitgliederversammlung vorzulegen.
 
+    4. In the event of any inconsistencies between the German and the English version of these bylaws, the German version shall prevail and be legally binding.
 
-Beschlossen am 8.11.2020
+Decided on 8.11.2020
+Translation of 13.11.2021

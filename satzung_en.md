@@ -111,5 +111,7 @@ Die Mitgliederversammlung:
 #### § 14 SONSTIGES
 * Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsbestimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben wird sowie die Auflösung des Vereins, die Überführung in eine andere Körperschaft oder die Übertragung des Vereinsvermögens als Ganzes ist der zuständigen Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
 * Vor Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkeitserklärung des zuständigen Finanzamtes einzuholen.
+* In the event of any inconsistencies between the German and the English version of these bylaws, the German version shall prevail and be legally binding.
 
-Fassung vom 14.03.2020
+Version of 14.03.2020
+Translation of 13.11.2021
