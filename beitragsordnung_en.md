@@ -2,23 +2,23 @@
 
 The executive commitee of Welcome Werkstatt e. V. has decided the following membership fee regulations:
 
-1. Mitgliedsgebühren
-    1. Alle Vereinsmitglieder – sowohl Fördermitglieder als auch ordentliche Mitglieder mit Stimmrecht – zahlen einen Mitgliedsbeitrag. Der Mitgliedsbeitrag wird monatlich berechnet.
+1. Membership Fees
+    1. All association members – supporting members as well as ordinary members with voting right – pay a membership fee. The membership fees are calculated monthly.
 
-    2. Ordentliche Mitglieder können gemäß § 6 der Satzung einen Antrag auf Ermäßigung der Beitragshöhe stellen. Der formlose Antrag ist dabei zu begründen. Die Begründung kann sich z.B. auf den Erhalt von Sozialleistung im Rahmen des SGB I ff. stützen. Über den Antrag wird durch den Vorstand per einfachem Mehrheitsbeschluss binnen 14 Tagen entschieden. Der zu leistende Beitrag wird durch den Vorstand im Einzelfall festgelegt und dem Mitglied ohne Verzug formlos mitgeteilt.
+    2. Ordinary members können gemäß § 6 der Satzung einen Antrag auf Ermäßigung der Beitragshöhe stellen. Der formlose Antrag ist dabei zu begründen. Die Begründung kann sich z.B. auf den Erhalt von Sozialleistung im Rahmen des SGB I ff. stützen. Über den Antrag wird durch den Vorstand per einfachem Mehrheitsbeschluss binnen 14 Tagen entschieden. Der zu leistende Beitrag wird durch den Vorstand im Einzelfall festgelegt und dem Mitglied ohne Verzug formlos mitgeteilt.
 
     3. Die Beitragszahlung der Mitglieder erfolgt entweder per Überweisung auf das Vereinskonto oder im Lastschriftverfahren. Sie erfolgt, je nach gewählter Zahlungsweise des Mitglieds, jeweils zum ersten Werktag des Monats oder im ersten Monat des laufenden Quartals, des Halbjahres oder des Jahres. Wird das Lastschriftverfahren gewählt, so erteilt das Mitglied dem Verein hierfür ein SEPA-Lastschriftmandat.
 
-    4. Der monatlich berechnete Beitrag beträgt:
+    4. The monthly fees are:
     
-        | Art der Mitgliedschaft  | Mitglieder mit Stimmrecht | Fördermitglieder |
+        | Type of Membership  | Ordinary Members | Supporting Members |
         | ----------------------- | ------------------------- | ---------------- |
-        | Erwachsene (ab vollendetem 18. Lebensjahr) | 25 Euro | Ab 12,50 Euro |
-        | Partner/Familie (im gleichen Haushalt wie Mitglied) | 7,50 Euro | - |
-        | Jugendliche (ab vollendetem 16. Lebensjahr) | 15 Euro | - |
-        | Senioren (ab vollendetem 65. Lebensjahr) | 15 Euro | Ab 7,50 Euro |
+        | Adults (from the age of 18) | 25 Euro | Ab 12,50 Euro |
+        | Partner/Family (member of the member's household) | 7,50 Euro | - |
+        | Adolescents (from the age of 16) | 15 Euro | - |
+        | Seniors (from the age of 65) | 15 Euro | Ab 7,50 Euro |
 
-        Der vierteljährliche, halbjährliche und jährliche Beitrag berechnet sich entsprechend durch Multiplikation der Monatsbeiträge mit der Anzahl der Monate (4, 6 oder 12).
+        The quarterly, bianually and anually fee is calculated accordingly by multiplying the monthly fee with the number of months (4, 6 or 12).
 
 
 2. Tagespauschale
@@ -32,7 +32,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
     
     5. Mitglieder, die Arbeitsleistungen für die Werkstatt erbringen (mind. 45 Minuten), müssen am selben Tag für die private Nutzung keine Tagespauschale leisten. 
 
-3. Arbeitsleistung
+3. Work Contributions
     1. Alle ordentlichen Mitglieder mit Stimmrecht müssen jährlich vier Stunden Arbeit zum Erhalt, zur Pflege und/oder Erweiterung der vereinseigenen Einrichtungen und Anlagen erbringen. Die Arbeitsleistung ist im Eintrittsjahr für vollständige Quartale anteilig zu erbringen.
 
     2. Die Arbeitsstunden können zum Beispiel abgeleistet werden als Aufsichtsperson bei der "offenen Werkstatt" oder bei Kursen und Veranstaltungen, sowie beim Ausbau und der Pflege der Werkstatt.
@@ -42,7 +42,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
     4. Wird die Anzahl der Arbeitsstunden nicht erfüllt, erhebt der Verein pro nicht geleisteter Stunde eine Ausfallgebühr von 10 Euro. Der eventuell fällig werdende Betrag wird dem Mitglied per E-Mail mitgeteilt. Im folgenden Monat wird der Betrag durch das Mitglied in bar, per Lastschrift oder per Überweisung beglichen.
 
 
-4. Neumitglieder
+4. New Members
     1. Der Verein erhebt eine Aufnahmegebühr von 10 Euro, die nach Aufnahme in den Verein fällig wird und mit dem ersten Mitgliedsbeitrag zusammen überwiesen werden kann oder gemeinsam mit dem ersten Mitgliedsbeitrag im Lastschriftverfahren eingezogen wird.
 
     2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von aktuell 8,50 Euro. Sofern die Kiste vollständig intakt und weiterhin nutzbar ist, kann diese bei Austritt an den Verein zurückgegeben werden und der Betrag wird dem Mitglied erstattet. 
@@ -51,8 +51,8 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 
 
 
-5. Sonstiges
-    1. Anschriften-, Namens- und Kontenänderungen sowie Veränderungen, die zu einer anderen Bemessung der Beitragshöhe führen, sind dem Vorstand unverzüglich mitzuteilen.
+5. Miscellaneous
+    1. Changes in the member's postal address, name or bank details as well as any changes that affect the calculation of the membership fee, must be made known to the executive commitee immediately.
 
     2. Wird der Beitrag trotz schriftlicher Mahnung nicht fristgemäß entrichtet, führt dies gemäß  § 4 der Satzung nach einem Verzug mit drei Monatsbeiträgen zum Ausschluss des Mitgliedes. Die Verbindlichkeiten bleiben davon unberührt. Für Mahnschreiben ist der Verein berechtigt, ohne Nachweisführung einen Betrag von 2,50 Euro zu berechnen.
 
@@ -60,5 +60,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 
     4. In the event of any inconsistencies between the German and the English version of these bylaws, the German version shall prevail and be legally binding.
 
-Decided on 8.11.2020
-Translation of 13.11.2021
+
+Decided on 8th November 2020
+
+Translation of 13th November 2021
