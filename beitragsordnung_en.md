@@ -13,10 +13,10 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
     
         | Type of Membership  | Ordinary Members | Supporting Members |
         | ----------------------- | ------------------------- | ---------------- |
-        | Adults (from the age of 18) | 25 Euro | Ab 12,50 Euro |
+        | Adults (from the age of 18) | 25 Euro | At least 12,50 Euro |
         | Partner/Family (member of the member's household) | 7,50 Euro | - |
         | Adolescents (from the age of 16) | 15 Euro | - |
-        | Seniors (from the age of 65) | 15 Euro | Ab 7,50 Euro |
+        | Seniors (from the age of 65) | 15 Euro | At least 7,50 Euro |
 
         The quarterly, bianually and anually fee is calculated accordingly by multiplying the monthly fee with the number of months (4, 6 or 12).
 
@@ -24,7 +24,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 2. Tagespauschale
     1. Für die private Nutzung der Räumlichkeiten des Vereins entrichten ordentliche Mitglieder mit Stimmrecht eine reduzierte Tagespauschale von 3 Euro. Gäste entrichten pro Nutzungstag innerhalb der regulären Öffnungszeiten pauschal 10 Euro.
     
-    2. Gäste und Mitglieder, die Sozialleistung(-en) im Rahmen des SGB I ff. erhalten, zahlen pro Nutzungstag die Hälfte der jeweiligen Tagespauschale. Ein Nachweis ist nicht erforderlich.
+    2. Guests and members who are receiving , die Sozialleistung(-en) im Rahmen des SGB I ff. erhalten, zahlen pro Nutzungstag die Hälfte der jeweiligen Tagespauschale. Proof to that is not required.
 
     3. Alle Besucher (Mitglieder und Gäste) können eine Begleitperson mit in die Räumlichkeiten bringen, sofern diese am gleichen Projekt mitarbeitet. Die Begleitperson eines Mitglieds entrichtet eine Tagespauschale von 3 Euro. Die Begleitperson eines Nicht-Mitglieds entrichtet eine Tagespauschale von 8 Euro.
 
@@ -33,7 +33,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
     5. Mitglieder, die Arbeitsleistungen für die Werkstatt erbringen (mind. 45 Minuten), müssen am selben Tag für die private Nutzung keine Tagespauschale leisten. 
 
 3. Work Contributions
-    1. Alle ordentlichen Mitglieder mit Stimmrecht müssen jährlich vier Stunden Arbeit zum Erhalt, zur Pflege und/oder Erweiterung der vereinseigenen Einrichtungen und Anlagen erbringen. Die Arbeitsleistung ist im Eintrittsjahr für vollständige Quartale anteilig zu erbringen.
+    1. All ordinary members with voting right must contribute four hours of work anually dedicated to maintanance, care and/or extending the association's facilities and equipment. Die Arbeitsleistung ist im Eintrittsjahr für vollständige Quartale anteilig zu erbringen.
 
     2. Die Arbeitsstunden können zum Beispiel abgeleistet werden als Aufsichtsperson bei der "offenen Werkstatt" oder bei Kursen und Veranstaltungen, sowie beim Ausbau und der Pflege der Werkstatt.
 
@@ -52,7 +52,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 
 
 5. Miscellaneous
-    1. Changes in the member's postal address, name or bank details as well as any changes that affect the calculation of the membership fee, must be made known to the executive commitee immediately.
+    1. Changes in the member's postal address, name or bank details as well as any changes that affect the calculation of the membership fee must be made known to the executive commitee immediately.
 
     2. Wird der Beitrag trotz schriftlicher Mahnung nicht fristgemäß entrichtet, führt dies gemäß  § 4 der Satzung nach einem Verzug mit drei Monatsbeiträgen zum Ausschluss des Mitgliedes. Die Verbindlichkeiten bleiben davon unberührt. Für Mahnschreiben ist der Verein berechtigt, ohne Nachweisführung einen Betrag von 2,50 Euro zu berechnen.
 
