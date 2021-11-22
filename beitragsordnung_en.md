@@ -54,7 +54,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 5. Miscellaneous
     1. Changes in the member's postal address, name or bank details as well as any changes that affect the calculation of the membership fee must be made known to the executive commitee immediately.
 
-    2. Wird der Beitrag trotz schriftlicher Mahnung nicht fristgemäß entrichtet, führt dies gemäß  § 4 der Satzung nach einem Verzug mit drei Monatsbeiträgen zum Ausschluss des Mitgliedes. Die Verbindlichkeiten bleiben davon unberührt. Für Mahnschreiben ist der Verein berechtigt, ohne Nachweisführung einen Betrag von 2,50 Euro zu berechnen.
+    2. Persuant to § 4 of the statute a member will be expulsed from the association after not having timely paid three monthly fees and after have been sent a reminder letter. The obligation to pay the outstanding fees remains. For reminder letters the asscociation is entitled to charge - without obligation of proof - an amount of 2,50 Euros.
 
     3. The executive commitee can decide to modify these fee regulations when necessary. The executive commitee will immediately notify by e-mail all members with known e-mail addresses about such decisions to modify these regulations. The executive commitee will further present such decisions to the next general meeting.
 
