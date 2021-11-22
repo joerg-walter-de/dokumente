@@ -5,7 +5,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 1. Membership Fees
     1. All association members – supporting members as well as ordinary members with voting right – pay a membership fee. The membership fees are calculated monthly.
 
-    2. Ordinary members können gemäß § 6 der Satzung einen Antrag auf Ermäßigung der Beitragshöhe stellen. Der formlose Antrag ist dabei zu begründen. Die Begründung kann sich z.B. auf den Erhalt von Sozialleistung im Rahmen des SGB I ff. stützen. Über den Antrag wird durch den Vorstand per einfachem Mehrheitsbeschluss binnen 14 Tagen entschieden. Der zu leistende Beitrag wird durch den Vorstand im Einzelfall festgelegt und dem Mitglied ohne Verzug formlos mitgeteilt.
+    2. Ordinary members can persuant to § 6 of the association's statute apply for a reduction of the membership fees. The informal application must be substantiated. The reasoning may be based on the reception of social benefits persuant to SGB I ff. The application will be decided by the executive commitee with simple majority within 14 days. Der zu leistende Beitrag wird durch den Vorstand im Einzelfall festgelegt und dem Mitglied ohne Verzug formlos mitgeteilt.
 
     3. Die Beitragszahlung der Mitglieder erfolgt entweder per Überweisung auf das Vereinskonto oder im Lastschriftverfahren. Sie erfolgt, je nach gewählter Zahlungsweise des Mitglieds, jeweils zum ersten Werktag des Monats oder im ersten Monat des laufenden Quartals, des Halbjahres oder des Jahres. Wird das Lastschriftverfahren gewählt, so erteilt das Mitglied dem Verein hierfür ein SEPA-Lastschriftmandat.
 
@@ -21,10 +21,10 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
         The quarterly, bianually and anually fee is calculated accordingly by multiplying the monthly fee with the number of months (4, 6 or 12).
 
 
-2. Tagespauschale
-    1. Für die private Nutzung der Räumlichkeiten des Vereins entrichten ordentliche Mitglieder mit Stimmrecht eine reduzierte Tagespauschale von 3 Euro. Gäste entrichten pro Nutzungstag innerhalb der regulären Öffnungszeiten pauschal 10 Euro.
+2. Daily Flat Rate
+    1. Ordinary members with voting right pay - when using the association's facilities for personal purposes - a reduced daily flat rate of 3 Euros per day of use. Guests pay a daily flat rate of 10 Euros when using the facilities during regular opening hours.
     
-    2. Guests and members who are receiving , die Sozialleistung(-en) im Rahmen des SGB I ff. erhalten, zahlen pro Nutzungstag die Hälfte der jeweiligen Tagespauschale. Proof to that is not required.
+    2. Guests and members who are receiving social benefits persuant to SGB I ff. pay half the regular daily flat rate per day of use. Proof to that is not required.
 
     3. Alle Besucher (Mitglieder und Gäste) können eine Begleitperson mit in die Räumlichkeiten bringen, sofern diese am gleichen Projekt mitarbeitet. Die Begleitperson eines Mitglieds entrichtet eine Tagespauschale von 3 Euro. Die Begleitperson eines Nicht-Mitglieds entrichtet eine Tagespauschale von 8 Euro.
 
@@ -56,7 +56,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 
     2. Wird der Beitrag trotz schriftlicher Mahnung nicht fristgemäß entrichtet, führt dies gemäß  § 4 der Satzung nach einem Verzug mit drei Monatsbeiträgen zum Ausschluss des Mitgliedes. Die Verbindlichkeiten bleiben davon unberührt. Für Mahnschreiben ist der Verein berechtigt, ohne Nachweisführung einen Betrag von 2,50 Euro zu berechnen.
 
-    3. Diese Beitragsordnung kann bei Notwendigkeit vom Vorstand per Beschluss geändert werden. Der Vorstand hat Änderungsbeschlüsse bezüglich dieser Beitragsordnung unverzüglich per E-Mail an alle Mitglieder mit bekannter E-Mail-Adresse sowie zusätzlich in der nächsten Mitgliederversammlung vorzulegen.
+    3. The executive commitee can decide to modify these fee regulations when necessary. The executive commitee will immediately notify by e-mail all members with known e-mail addresses about such decisions to modify these regulations. The executive commitee will further present such decisions to the next general meeting.
 
     4. In the event of any inconsistencies between the German and the English version of these bylaws, the German version shall prevail and be legally binding.
 
