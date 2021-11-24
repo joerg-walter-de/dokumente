@@ -5,7 +5,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 1. Membership Fees
     1. All association members – supporting members as well as ordinary members with voting right – pay a membership fee. The membership fees are calculated monthly.
 
-    2. Ordinary members can persuant to § 6 of the association's statute apply for a reduction of the membership fees. The informal application must be substantiated. The reasoning may be based on the reception of social benefits persuant to SGB I ff. The application will be decided by the executive commitee with simple majority within 14 days. Der zu leistende Beitrag wird durch den Vorstand im Einzelfall festgelegt und dem Mitglied ohne Verzug formlos mitgeteilt.
+    2. Ordinary members can persuant to § 6 of the association's statute apply for a reduction of the membership fees. The informal application must be substantiated. The reasoning may be based on the reception of social benefits persuant to SGB I ff. The application will be decided by the executive commitee with simple majority within 14 days. The payable fee is determined by the executive commitee based on the individual case. The member is informed immediately with no specific form necessary.
 
     3. Die Beitragszahlung der Mitglieder erfolgt entweder per Überweisung auf das Vereinskonto oder im Lastschriftverfahren. Sie erfolgt, je nach gewählter Zahlungsweise des Mitglieds, jeweils zum ersten Werktag des Monats oder im ersten Monat des laufenden Quartals, des Halbjahres oder des Jahres. Wird das Lastschriftverfahren gewählt, so erteilt das Mitglied dem Verein hierfür ein SEPA-Lastschriftmandat.
 
@@ -33,7 +33,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
     5. Mitglieder, die Arbeitsleistungen für die Werkstatt erbringen (mind. 45 Minuten), müssen am selben Tag für die private Nutzung keine Tagespauschale leisten. 
 
 3. Work Contributions
-    1. All ordinary members with voting right must contribute four hours of work anually dedicated to maintanance, care and/or extending the association's facilities and equipment. Die Arbeitsleistung ist im Eintrittsjahr für vollständige Quartale anteilig zu erbringen.
+    1. All ordinary members with voting right must contribute four hours of work anually dedicated to maintanance, care and/or extending the association's facilities and equipment. In the first year of membership this amount of contributional work is calculated propertionally based on the full quarters of membership.
 
     2. Die Arbeitsstunden können zum Beispiel abgeleistet werden als Aufsichtsperson bei der "offenen Werkstatt" oder bei Kursen und Veranstaltungen, sowie beim Ausbau und der Pflege der Werkstatt.
 
