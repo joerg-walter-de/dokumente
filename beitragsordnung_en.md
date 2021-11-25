@@ -7,7 +7,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 
     2. Ordinary members can persuant to § 6 of the association's statute apply for a reduction of the membership fees. The informal application must be substantiated. The reasoning may be based on the reception of social benefits persuant to SGB I ff. The application will be decided by the executive commitee with simple majority within 14 days. The payable fee is determined by the executive commitee based on the individual case. The member is informed immediately with no specific form necessary.
 
-    3. Die Beitragszahlung der Mitglieder erfolgt entweder per Überweisung auf das Vereinskonto oder im Lastschriftverfahren. Sie erfolgt, je nach gewählter Zahlungsweise des Mitglieds, jeweils zum ersten Werktag des Monats oder im ersten Monat des laufenden Quartals, des Halbjahres oder des Jahres. Wird das Lastschriftverfahren gewählt, so erteilt das Mitglied dem Verein hierfür ein SEPA-Lastschriftmandat.
+    3. Payment of membership fees must be done by bank transfer to the association account or by direct debit. Depending on the chosen payment rythm the membership fees must be paid by the first day of the month or with ín the first month of any quarter, half-year or year. In case direct debit is chosen as payment method the member grants the association an SEPA direct debit mandate.
 
     4. The monthly fees are:
     
