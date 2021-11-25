@@ -7,7 +7,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 
     2. Ordinary members can persuant to § 6 of the association's statute apply for a reduction of the membership fees. The informal application must be substantiated. The reasoning may be based on the reception of social benefits persuant to SGB I ff. The application will be decided by the executive commitee with simple majority within 14 days. The payable fee is determined by the executive commitee based on the individual case. The member is informed immediately with no specific form necessary.
 
-    3. Payment of membership fees must be done by bank transfer to the association account or by direct debit. Depending on the chosen payment rythm the membership fees must be paid by the first day of the month or with ín the first month of any quarter, half-year or year. In case direct debit is chosen as payment method the member grants the association an SEPA direct debit mandate.
+    3. Payment of membership fees must be made by bank transfer to the association account or by direct debit. Depending on the chosen payment rythm the membership fees must be paid by the first day of any month or withín the first month of any quarter, half-year or year. In case direct debit is chosen as payment method the member grants the association an SEPA direct debit mandate.
 
     4. The monthly fees are:
     
@@ -26,7 +26,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
     
     2. Guests and members who are receiving social benefits persuant to SGB I ff. pay half the regular daily flat rate per day of use. Proof to that is not required.
 
-    3. Alle Besucher (Mitglieder und Gäste) können eine Begleitperson mit in die Räumlichkeiten bringen, sofern diese am gleichen Projekt mitarbeitet. Die Begleitperson eines Mitglieds entrichtet eine Tagespauschale von 3 Euro. Die Begleitperson eines Nicht-Mitglieds entrichtet eine Tagespauschale von 8 Euro.
+    3. All visitors (members and guests) may bring one acompanying person with them into the facilities, as long as this person is working on the same project. The accompanying person of a member pays a daily flat rate of 3 Euros. The acompanying person of a guest pays a daily flat rate of 8 Euros..
 
     4. Mitglieder können zur Entrichtung der Tagespauschale eine Zehnerkarte zum Preis von zehn Tagespauschalen (aktuell 10 x 3 Euro also 30 Euro) erwerben. Sie erlaubt dem Mitglied die zehnmalige Nutzung der Räumlichkeiten – auch wenn sich die Höhe der Tagespauschale im Nachhinein ändert. 
     
