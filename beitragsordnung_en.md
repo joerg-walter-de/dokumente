@@ -26,9 +26,9 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
     
     2. Guests and members who are receiving social benefits persuant to SGB I ff. pay half the regular daily flat rate per day of use. Proof to that is not required.
 
-    3. All visitors (members and guests) may bring one acompanying person with them into the facilities, as long as this person is working on the same project. The accompanying person of a member pays a daily flat rate of 3 Euros. The acompanying person of a guest pays a daily flat rate of 8 Euros..
+    3. All visitors (members and guests) may bring one acompanying person with them into the facilities, as long as this person is working on the same project. The accompanying person of a member pays a daily flat rate of 3 Euros. The acompanying person of a guest pays a daily flat rate of 8 Euros.
 
-    4. Mitglieder können zur Entrichtung der Tagespauschale eine Zehnerkarte zum Preis von zehn Tagespauschalen (aktuell 10 x 3 Euro also 30 Euro) erwerben. Sie erlaubt dem Mitglied die zehnmalige Nutzung der Räumlichkeiten – auch wenn sich die Höhe der Tagespauschale im Nachhinein ändert. 
+    4. Members can purchase a ten-visit ticket for paying the daily flat rates. The price for this ticket is equal to ten daily flat rates (currently 10 x 3 Euros = 30 Euros). With it members can use the facilities on ten days. A change to the daily flat rate after its purchase does not affect that. 
     
     5. Mitglieder, die Arbeitsleistungen für die Werkstatt erbringen (mind. 45 Minuten), müssen am selben Tag für die private Nutzung keine Tagespauschale leisten. 
 
