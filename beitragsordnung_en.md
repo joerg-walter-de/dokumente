@@ -35,7 +35,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 3. Work Contributions
     1. All ordinary members with voting right must contribute four hours of work anually dedicated to maintanance, care and/or extending the association's facilities and equipment. In the first year of membership this amount of contributional work is calculated propertionally based on the full quarters of membership.
 
-    2. Die Arbeitsstunden können zum Beispiel abgeleistet werden als Aufsichtsperson bei der "offenen Werkstatt" oder bei Kursen und Veranstaltungen, sowie beim Ausbau und der Pflege der Werkstatt.
+    2. Work hours may be contributed as a supervisor during open workshop ('offene Werkstatt') or by giving classes or organizing events as well as by improving and maintaining the workshop.
 
     3. Die Kontrolle erbrachter Arbeitsstunden obliegt dem Vorstand, dabei werden die Arbeitsstunden der Mitglieder durch den Vorstand oder den Mitgliederwart per E-Mail bestätigt.
 
