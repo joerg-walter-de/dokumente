@@ -37,7 +37,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 
     2. Work hours may be contributed as a supervisor during open workshop ('offene Werkstatt') or by giving classes or organizing events as well as by improving and maintaining the workshop.
 
-    3. Die Kontrolle erbrachter Arbeitsstunden obliegt dem Vorstand, dabei werden die Arbeitsstunden der Mitglieder durch den Vorstand oder den Mitgliederwart per E-Mail bestätigt.
+    3. The contributed work hours are monitored by the executive commitee. Ccntributed work hours are certified for the members by the executive commitee or by the membership manager ('Mitgliederwart') in e-mails.
 
     4. Wird die Anzahl der Arbeitsstunden nicht erfüllt, erhebt der Verein pro nicht geleisteter Stunde eine Ausfallgebühr von 10 Euro. Der eventuell fällig werdende Betrag wird dem Mitglied per E-Mail mitgeteilt. Im folgenden Monat wird der Betrag durch das Mitglied in bar, per Lastschrift oder per Überweisung beglichen.
 
