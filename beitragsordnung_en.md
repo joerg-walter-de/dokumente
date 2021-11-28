@@ -39,7 +39,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 
     3. The contributed work hours are monitored by the executive commitee. Ccntributed work hours are certified for the members by the executive commitee or by the membership manager ('Mitgliederwart') in e-mails.
 
-    4. Wird die Anzahl der Arbeitsstunden nicht erfüllt, erhebt der Verein pro nicht geleisteter Stunde eine Ausfallgebühr von 10 Euro. Der eventuell fällig werdende Betrag wird dem Mitglied per E-Mail mitgeteilt. Im folgenden Monat wird der Betrag durch das Mitglied in bar, per Lastschrift oder per Überweisung beglichen.
+    4. In case the required work hours are not contributed the assocition charges a cancellation fee of 10 Euros per uncontributed work hour. The member will be informed about the resulting fee in an e-mail. The amount must be paid in the following month in cash, by direct debit or bank transfer.
 
 
 4. New Members
