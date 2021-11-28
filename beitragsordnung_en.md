@@ -43,7 +43,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 
 
 4. New Members
-    1. Der Verein erhebt eine Aufnahmegebühr von 10 Euro, die nach Aufnahme in den Verein fällig wird und mit dem ersten Mitgliedsbeitrag zusammen überwiesen werden kann oder gemeinsam mit dem ersten Mitgliedsbeitrag im Lastschriftverfahren eingezogen wird.
+    1. The association charges a admission fee of 10 Euros. This fee must be paid together with the first membership fee by bank transfer or will be collected by direct debit together with the first membership fee.
 
     2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von aktuell 8,50 Euro. Sofern die Kiste vollständig intakt und weiterhin nutzbar ist, kann diese bei Austritt an den Verein zurückgegeben werden und der Betrag wird dem Mitglied erstattet.
 
