@@ -45,7 +45,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 4. New Members
     1. The association charges a admission fee of 10 Euros. This fee must be paid together with the first membership fee by bank transfer or will be collected by direct debit together with the first membership fee.
 
-    2. Die Nutzung von Lagerfläche erfordert eine genormte Lagerkiste. Diese erhält das Mitglied zum Selbstkostenpreis von aktuell 8,50 Euro. Sofern die Kiste vollständig intakt und weiterhin nutzbar ist, kann diese bei Austritt an den Verein zurückgegeben werden und der Betrag wird dem Mitglied erstattet.
+    2. The use of storage space requires a standardized storage box. This can be purchased from the association at the cost price of 8,50 Euros. This box can be returned to the association when leaving the association as long as the box is fully intact and usable. In this case the amount is reimbursed.
 
     3. Auf Wunsch erhalten Mitglieder einen Schlüsselanhänger zur Öffnung der Räumlichkeiten. Dabei wird aktuell eine Pfandleistung in Höhe von 15 Euro fällig. Sofern der Schlüsselanhänger intakt und weiterhin nutzbar ist, kann dieser bei Austritt an den Verein zurückgegeben werden. Die gezahlte Pfandleistung wird dann vollständig erstattet.
 
