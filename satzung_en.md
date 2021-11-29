@@ -58,8 +58,8 @@
 * Members are paying fees in accordance with the membership fee regulations. The executive commitee may under special cirumstances decide on a case by case basis by simple majority.
 
 #### § 7 FUNDING
-* Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliederbeiträge, Spenden, Umlagen und andere finanzielle Mittel, soweit sie nicht den gemeinnützigen Zwecken des Vereins widersprechen.
-* Nicht-künstlerische Projekte können auch für den Eigenbedarf realisiert werden, in diesem Falls allerdings gegen ein vom Verein festgelegtes Entgelt.
+* The association funds its duties and projects through membership fees, donations, allocations and other financial means as long as they are no in contradiction to the nonprofit purposes of the association.
+* Non-artistic private projects may be realized with the means of the association. In this case fees are charged that have been set by the association.
 
 #### § 8 ORGANS
 * The organs of Welcome Werkstatt are the general meeting and the executive commitee.
