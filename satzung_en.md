@@ -2,12 +2,12 @@
 
 #### § 1 NAME, SEAT, LEGAL CAPACITY, BUSINESS YEAR
 * The association has the name „Welcome Werkstatt“.
-* Sitz des Vereins ist Hamburg.
-* Der Verein Welcome Werkstatt soll in das Vereinsregister des zuständigen Amtsgerichtes eingetragen werden und führt nach der Eintragung den Zusatz e.V.
-* Das Geschäftsjahr des Vereins ist das Kalenderjahr.
+* Seat of the association is Hamburg.
+* The assocition Welcome Werkstatt will be registered at the competent district court and will bear the name suffix e.V. from thereon.
+* The business year of the assocition is th calendar year.
 
 #### § 2 PURPOSE OF THE ASSOCIATION
-* Zweck des Vereins sind die Förderung von Bildung, sowie der Kunst und Kultur auf den Gebieten der Techniken aus Handwerk und Ingenieurwesen, deren Anwendung, Geschichte und Weiterentwicklung und des selbstständigen und kreativen Umgangs mit Informationstechnologien und Technik im Allgemeinen.
+* The purpose of the association is Zweck des Vereins sind die Förderung von Bildung, sowie der Kunst und Kultur auf den Gebieten der Techniken aus Handwerk und Ingenieurwesen, deren Anwendung, Geschichte und Weiterentwicklung und des selbstständigen und kreativen Umgangs mit Informationstechnologien und Technik im Allgemeinen.
 * Ein weiterer Zweck stellt auch die Förderung der Hilfe für politisch, rassisch oder religiös Verfolgte und für Geflüchtete dar.
 * Im Verein sind alle Technikbegeisterten und Kreativen willkommen, ungeachtet ihres Geschlechts, Alters, ethnischer Zugehörigkeit, Nationalität, sozialer Herkunft, etwaiger Behinderung oder sexuellen Orientierung.
 * Der Satzungszweck wird insbesondere verwirklicht durch:
@@ -62,7 +62,7 @@
 * Nicht-künstlerische Projekte können auch für den Eigenbedarf realisiert werden, in diesem Falls allerdings gegen ein vom Verein festgelegtes Entgelt.
 
 #### § 8 ORGANS
-* Die Organe von Welcome Werkstatt sind die Mitgliederversammlung und der Vorstand.
+* The organs of Welcome Werkstatt are the general meeting and the executive commitee.
 
 #### § 9 GENERAL MEETING
 * Die Mitgliederversammlung besteht aus den Mitgliedern von Welcome Werkstatt.
@@ -77,9 +77,9 @@
 
 
 #### § 10 RESPONSIBILITIES OF THE GENERAL MEETING
-Die Mitgliederversammlung:
-* wählt und kontrolliert den Vorstand.
-* wählt einen oder mehrere unabhängige Kassenprüfer aus den Reihen der ordentlichen Mitglieder.
+The general meeting:
+* elects and controls the executive commitee.
+* elects one or more independant auditors from the ranks of the ordinary members.
 * prüft und genehmigt die Jahresabschlussrechnung des Vorstandes und erteilt die Entlastung.
 * entscheidet in allen Fällen, in denen nicht die Zuständigkeit eines anderen Organes bestimmt ist.
 * trifft Mehrheitsentscheidungen mit der Hälfte der teilnehmenden Mitglieder.
