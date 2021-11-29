@@ -7,7 +7,7 @@
 * The business year of the assocition is th calendar year.
 
 #### § 2 PURPOSE OF THE ASSOCIATION
-* The purpose of the association is Zweck des Vereins sind die Förderung von Bildung, sowie der Kunst und Kultur auf den Gebieten der Techniken aus Handwerk und Ingenieurwesen, deren Anwendung, Geschichte und Weiterentwicklung und des selbstständigen und kreativen Umgangs mit Informationstechnologien und Technik im Allgemeinen.
+* The purpose of the association is the promotion Zweck des Vereins sind die Förderung von Bildung, sowie der Kunst und Kultur auf den Gebieten der Techniken aus Handwerk und Ingenieurwesen, deren Anwendung, Geschichte und Weiterentwicklung und des selbstständigen und kreativen Umgangs mit Informationstechnologien und Technik im Allgemeinen.
 * Ein weiterer Zweck stellt auch die Förderung der Hilfe für politisch, rassisch oder religiös Verfolgte und für Geflüchtete dar.
 * Im Verein sind alle Technikbegeisterten und Kreativen willkommen, ungeachtet ihres Geschlechts, Alters, ethnischer Zugehörigkeit, Nationalität, sozialer Herkunft, etwaiger Behinderung oder sexuellen Orientierung.
 * Der Satzungszweck wird insbesondere verwirklicht durch:
@@ -55,7 +55,7 @@
 * Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
 
 #### § 6 MEMBERSHIP FEES
-* Mitglieder entrichten Beiträge nach Maßgabe der jeweils aktuellen Beitragsordnung. In Sonderfällen hat der Vorstand des Vereins das Recht eine Einzelfallregelung per einfachen Mehrheitsbeschluss festzulegen.
+* Members are paying fees in accordance with the membership fee regulations. The executive commitee may under special cirumstances decide on a case by case basis by simple majority.
 
 #### § 7 FUNDING
 * Der Verein finanziert die Durchführung seiner Aufgaben durch Mitgliederbeiträge, Spenden, Umlagen und andere finanzielle Mittel, soweit sie nicht den gemeinnützigen Zwecken des Vereins widersprechen.
