@@ -47,7 +47,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 
     2. The use of storage space requires a standardized storage box. This can be purchased from the association at the cost price of 8,50 Euros. This box can be returned to the association when leaving the association as long as the box is fully intact and usable. In this case the amount is reimbursed.
 
-    3. Auf Wunsch erhalten Mitglieder einen Schlüsselanhänger zur Öffnung der Räumlichkeiten. Dabei wird aktuell eine Pfandleistung in Höhe von 15 Euro fällig. Sofern der Schlüsselanhänger intakt und weiterhin nutzbar ist, kann dieser bei Austritt an den Verein zurückgegeben werden. Die gezahlte Pfandleistung wird dann vollständig erstattet.
+    3. Members can get a key fob for for opening the entrance door of the facilities. For that a deposit of15 Euros must be made. This key fob can be returned to the association when leaving the association as long as the key fob is fully intact and usable. In this case the amount is reimbursed.
 
 
 
