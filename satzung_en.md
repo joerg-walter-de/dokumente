@@ -80,12 +80,12 @@
 The general meeting:
 * elects and controls the executive commitee.
 * elects one or more independant auditors from the ranks of the ordinary members.
-* prüft und genehmigt die Jahresabschlussrechnung des Vorstandes und erteilt die Entlastung.
-* entscheidet in allen Fällen, in denen nicht die Zuständigkeit eines anderen Organes bestimmt ist.
-* trifft Mehrheitsentscheidungen mit der Hälfte der teilnehmenden Mitglieder.
-* wird schriftlich protokolliert.
-* Das Protokoll ist vom Versammlungsleiter und dem Schriftführer zu unterzeichnen.
-* kann sich eine Geschäftsordnung geben.
+* audits and approves the annual financial statement of the executive commitee and issues the discharge of the executive commitee.
+* decides in all cases where no other organ is defined as responsible.
+* makes majority decisions with half of the attending members.
+* is minuted in writing.
+* The protocol must be signed by the meeting chairperson and the minute taker.
+* may give itself standing orders.
 
 
 #### § 11 EXECUTIVE COMMITEE
