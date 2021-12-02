@@ -55,14 +55,14 @@
 * Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
 
 #### § 6 MEMBERSHIP FEES
-* Members are paying fees in accordance with the membership fee regulations. The executive commitee may under special cirumstances decide on a case by case basis by simple majority.
+* Members are paying fees in accordance with the membership fee regulations. The executive committee may under special cirumstances decide membership fees on a case by case basis by simple majority.
 
 #### § 7 FUNDING
-* The association funds its duties and projects through membership fees, donations, allocations and other financial means as long as they are no in contradiction to the nonprofit purposes of the association.
+* The association funds its duties(TODO) and projects through membership fees, donations, allocations and other financial means as long as they are no in contradiction to the nonprofit purposes of the association.
 * Non-artistic private projects may be realized with the means of the association. In this case fees are charged that have been set by the association.
 
 #### § 8 ORGANS
-* The organs of Welcome Werkstatt are the general meeting and the executive commitee.
+* The organs of Welcome Werkstatt are the general meeting and the executive committee.
 
 #### § 9 GENERAL MEETING
 * Die Mitgliederversammlung besteht aus den Mitgliedern von Welcome Werkstatt.
@@ -78,9 +78,9 @@
 
 #### § 10 RESPONSIBILITIES OF THE GENERAL MEETING
 The general meeting:
-* elects and controls the executive commitee.
+* elects and controls the executive committee.
 * elects one or more independant auditors from the ranks of the ordinary members.
-* audits and approves the annual financial statement of the executive commitee and issues the discharge of the executive commitee.
+* audits and approves the annual financial statement of the executive committee and issues the discharge of the executive committee.
 * decides in all cases where no other organ is defined as responsible.
 * makes majority decisions with half of the attending members.
 * is minuted in writing.
@@ -88,7 +88,7 @@ The general meeting:
 * may give itself standing orders.
 
 
-#### § 11 EXECUTIVE COMMITEE
+#### § 11 EXECUTIVE COMMITTEE
 * Die Mitglieder des Vorstandes sind jeweils einzelvertretungsberechtigt.
 * Der Vorstand besteht aus entweder 3 oder 5 Personen und wird auf ein Jahr gewählt. Eine Wiederwahl ist möglich.
 * Der Vorstand im Sinne des § 26 BGB besteht aus dem 1. Vorsitzenden, dem 2. Vorsitzenden und dem Schatzmeister.
@@ -99,7 +99,7 @@ The general meeting:
 * Beschlüsse des Vorstandes sind zu protokollieren.
 * Die Vorstandsmitglieder bleiben bis zu ihrer Amtsniederlegung oder Neuwahl im Amt.
 
-#### § 12 RESPONSIBILITIES OF THE EXECUTIVE COMMITEE
+#### § 12 RESPONSIBILITIES OF THE EXECUTIVE COMMITTEE
 * Der Vorstand führt die Geschäfte des Vereins und fasst die erforderlichen Beschlüsse.
 * Dem Vorstand obliegt insbesondere die Führung von Aufzeichnungen über Ausgaben und Einnahmen des Vereins und stellt Spendenbescheinigungen aus. Dazu kann vom Vorstand ein Vorstandsmitglied gewählt werden.
 

@@ -1,11 +1,11 @@
 # Membership Fee Regulations
 
-The executive commitee of Welcome Werkstatt e. V. has decided the following membership fee regulations:
+The executive committee of Welcome Werkstatt e. V. has decided the following membership fee regulations:
 
 1. Membership Fees
     1. All association members – supporting members as well as ordinary members with voting right – pay a membership fee. The membership fees are calculated monthly.
 
-    2. Ordinary members can persuant to § 6 of the association's statute apply for a reduction of the membership fees. The informal application must be substantiated. The reasoning may be based on the reception of social benefits persuant to SGB I ff. The application will be decided by the executive commitee with simple majority within 14 days. The payable fee is determined by the executive commitee based on the individual case. The member is informed immediately with no specific form necessary.
+    2. Ordinary members can persuant to § 6 of the association's statute apply for a reduction of the membership fees. The informal application must be substantiated. The reasoning may be based on the reception of social benefits persuant to SGB I ff. The application will be decided by the executive committee with simple majority within 14 days. The payable fee is determined by the executive committee based on the individual case. The member is informed immediately with no specific form necessary.
 
     3. Payment of membership fees must be made by bank transfer to the association account or by direct debit. Depending on the chosen payment rythm the membership fees must be paid by the first day of any month or withín the first month of any quarter, half-year or year. In case direct debit is chosen as payment method the member grants the association an SEPA direct debit mandate.
 
@@ -37,7 +37,7 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 
     2. Work hours may be contributed as a supervisor during open workshop ('offene Werkstatt') or by giving classes or organizing events as well as by improving and maintaining the workshop.
 
-    3. The contributed work hours are monitored by the executive commitee. Ccntributed work hours are certified for the members by the executive commitee or by the membership manager ('Mitgliederwart') in e-mails.
+    3. The contributed work hours are monitored by the executive committee. Ccntributed work hours are certified for the members by the executive committee or by the membership manager ('Mitgliederwart') in e-mails.
 
     4. In case the required work hours are not contributed the assocition charges a cancellation fee of 10 Euros per uncontributed work hour. The member will be informed about the resulting fee in an e-mail. The amount must be paid in the following month in cash, by direct debit or bank transfer.
 
@@ -52,11 +52,11 @@ The executive commitee of Welcome Werkstatt e. V. has decided the following memb
 
 
 5. Miscellaneous
-    1. Changes in the member's postal address, name or bank details as well as any changes that affect the calculation of the membership fee must be made known to the executive commitee immediately.
+    1. Changes in the member's postal address, name or bank details as well as any changes that affect the calculation of the membership fee must be made known to the executive committee immediately.
 
     2. Persuant to § 4 of the statute a member will be expulsed from the association after not having timely paid three monthly fees and after have been sent a reminder letter. The obligation to pay the outstanding fees remains. For reminder letters the asscociation is entitled to charge - without obligation of proof - an amount of 2,50 Euros.
 
-    3. The executive commitee can decide to modify these fee regulations when necessary. The executive commitee will immediately notify by e-mail all members with known e-mail addresses about such decisions to modify these regulations. The executive commitee will further present such decisions to the next general meeting.
+    3. The executive committee can decide to modify these fee regulations when necessary. The executive committee will immediately notify by e-mail all members with known e-mail addresses about such decisions to modify these regulations. The executive committee will further present such decisions to the next general meeting.
 
     4. In the event of any inconsistencies between the German and the English version of these bylaws, the German version shall prevail and be legally binding.
 
