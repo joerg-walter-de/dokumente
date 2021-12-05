@@ -106,10 +106,10 @@ The general meeting:
 
 #### § 13 DISSOLUTION
 * The dissolution of the association requires a three quarters majority of the attending members in a general meeting and half of the members of the association.
-* Bei Auflösung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt das Vermögen von Welcome Werkstatt an eine gemeinnützige Körperschaft zwecks Verwendung für die Förderung der Wissenschaft und Forschung. Die Mitgliederversammlung, die eine Auflösung des Vereins beschließt, hat hier darüber abzustimmen welche gemeinnützige Körperschaft ausgewählt wird.
+* When the association is dissolved or when its purpose ceases to exist the assets of Welcome Werkstatt are transfered to a non-profit corporation for the purpose of advancing of science and research. The general meeting that decides the dissolution of the association has to decide which corporation to elect.
 
 #### § 14 MISCELLANEOUS
-* Decisions that modify, extend statute regulations, add regulations to or remove regulations from the statute that affect tax benefits or decisions that dissolve the association, tranfer it into another corporation or transfer its assets in its entirety must be made known to the competent tax office immediately.
+* Decisions that modify, extend, add or remove statute regulations that affect tax benefits or decisions that dissolve the association, tranfer it into another corporation or transfer its assets in its entirety must be immediately made known to the competent tax office.
 * Before distribution or transference of the assets of the association a clearance certificate has to be obtained from the competent tax office.
 * In the event of any inconsistencies between the German and the English version of these bylaws, the German version shall prevail and be legally binding.
 
