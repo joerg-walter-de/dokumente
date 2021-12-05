@@ -100,8 +100,8 @@ The general meeting:
 * Die Vorstandsmitglieder bleiben bis zu ihrer Amtsniederlegung oder Neuwahl im Amt.
 
 #### § 12 RESPONSIBILITIES OF THE EXECUTIVE COMMITTEE
-* Der Vorstand führt die Geschäfte des Vereins und fasst die erforderlichen Beschlüsse.
-* Dem Vorstand obliegt insbesondere die Führung von Aufzeichnungen über Ausgaben und Einnahmen des Vereins und stellt Spendenbescheinigungen aus. Dazu kann vom Vorstand ein Vorstandsmitglied gewählt werden.
+* The executive committee conducts the business of the association and makes the necessary decisions.
+* The executive committee is keeping records of revenues and expenditures of the associtiondes Vereins and issues donation receipts. For that the executive committe may elect a member of the executive committee.
 
 
 #### § 13 DISSOLUTION
@@ -110,7 +110,7 @@ The general meeting:
 
 #### § 14 MISCELLANEOUS
 * Beschlüsse, durch die eine für steuerliche Vergünstigungen wesentliche Satzungsbestimmung geändert, ergänzt, in die Satzung eingefügt oder aufgehoben wird sowie die Auflösung des Vereins, die Überführung in eine andere Körperschaft oder die Übertragung des Vereinsvermögens als Ganzes ist der zuständigen Finanzbehörde durch den Vorstand unverzüglich mitzuteilen.
-* Vor Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkeitserklärung des zuständigen Finanzamtes einzuholen.
+* Vor Verteilung oder Übertragung des Vereinsvermögens ist die Unbedenklichkeitserklärung des zuständigen Finanzamtes einzuholen of the competent tax office.
 * In the event of any inconsistencies between the German and the English version of these bylaws, the German version shall prevail and be legally binding.
 
 Version of 14.03.2020
