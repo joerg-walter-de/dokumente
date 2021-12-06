@@ -37,21 +37,21 @@
 * Sollen ordentliche Mitglieder des Vereins oder Mitglieder der Organe des Vereins für die Ausübung genau zu definierender Tätigkeiten angestellt oder ihre Tätigkeit in anderer Form entlohnt bekommen, so ist hierfür ein Abschluss eines schriftlichen Vertrages erforderlich.
 
 #### § 4 MEMBERSHIP
-* Mitglieder können natürliche Personen und juristische Personen jedweder Rechtsform werden.
+* Members can be natural person and legal entities of any legal form.
 * Der Vorstand entscheidet auf Antrag in Textform des Antragstellers über die Aufnahme. Der Vorstand entscheidet nach freiem Ermessen. Der Beschluss wird dem Antragsteller in Textform mitgeteilt. Der Beitritt Jugendlicher bis zur Volljährigkeit bedarf der schriftlichen Zustimmung der Eltern oder der des gesetzlichen Vertreters. Die Mitgliedschaft beginnt mit der Zustellung der Aufnahmebestätigung durch den Vorstand bzw. zum darin genannten Eintrittsdatum.
-* Die Mitgliedschaft dauert mindestens ein Quartal eines Jahres, danach verlängert sie sich jeweils um ein Quartal eines Jahres.
-* Die Mitgliedschaft endet:
-  1. bei juristischen Personen mit deren Auflösung.
-  2. bei natürlichen Personen mit ihrem Tod.
-  3. nach Kündigung eines Mitgliedes gegenüber dem Vorstand. Die Kündigung muss mindestens 14 Tage vor Ablauf des Mitgliedzeitraumes eingegangen sein, die Beitragspflicht für das laufende Quartal bleibt hiervon unberührt. Die Kündigung muss in Textform erfolgen.
-  4. bei Mitgliedern, die sich mit mehr als drei Monatsbeiträgen im Verzug befinden, automatisch.
-  5. durch Ausschluss.
-* Die Mitgliedschaft kann auch eine Fördermitgliedschaft sein. Fördermitglieder haben kein Stimmrecht auf Mitgliederversammlungen. Die Fördermitgliedschaft kann bereits beim Eintritt in den Verein gewählt werden. Jedes Mitglied kann außerdem jederzeit durch Antrag in Textform an den Vorstand zwischen Fördermitgliedschaft und normaler Mitgliedschaft wechseln. Ein Wechsel wird jeweils mit Zugang des Antrages an den Vorstand gültig.
-* Alle ordentlichen Mitglieder haben das Recht, an öffentlichen Veranstaltungen des Vereins teilzunehmen und die Leistungen des Vereins in Anspruch zu nehmen. Sie haben Rechte und Pflichten aus dieser Satzung, insbesondere haben sie ein Stimmrecht.
+* The minimum length of a membership term are a three months. The membership is automatically extended by three monthsDie Mitgliedschaft dauert mindestens ein Quartal eines Jahres, danach verlängert sie sich jeweils um ein Quartal eines Jahres.
+* The membership ends:
+  1. for legal entities with their dissolution.
+  2. for natural persons with their death.
+  3. after cancellation declared by the member to the executive committee. The cancellation must be filed at least 14 days before the end of the membership term. The obligation to pay membership fees for the current quarter remains. The cancellation must be declared in writing.
+  4. automatically for members who are behind schedule with their membership fee payments for more than three months.
+  5. by expulsion.
+* The membership can be a supporting membership. Supporting members have no vorting right in general meetings. The supporting membership can chosen upon admission into the association. Members can switch from ordinary membership to supporting membership and vice versa at any time. The switch must be announced to the executive committee in writing. The switch comes into effect on receipt of the application.
+* All ordinary members have the right to attend public association events and to draw on the association services. They have rights and duties codified in this statute. In particular they have the right to vote.
 
 
 #### § 5 EXCLUSION OF A MEMBER
-* Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es das Ansehen des Vereins schädigt oder wenn ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
+* A member can be expulsed from the association by decision of the executive committee in case the member damages the reputation of the association or for other important reasons. The executive committee. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
 * Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
 
 #### § 6 MEMBERSHIP FEES
