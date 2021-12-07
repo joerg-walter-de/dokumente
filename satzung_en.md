@@ -51,8 +51,8 @@
 
 
 #### § 5 EXCLUSION OF A MEMBER
-* A member can be expulsed from the association by decision of the executive committee in case the member damages the reputation of the association or for other important reasons. The executive committee. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
-* Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zulässig. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
+* A member can be expulsed from the association by decision of the executive committee in case the member damages the reputation of the association or for other important reasons. The executive committee must inform the member about the decision and its reasons in writing. The executive committee must hear the member when he or she demands so.
+* Against the decision of the executive committee the member may appeal to the general meeting. In this case the membership is suspended until the decision of the general meeting.
 
 #### § 6 MEMBERSHIP FEES
 * Members are paying fees in accordance with the membership fee regulations. The executive committee may under special cirumstances decide membership fees on a case by case basis by simple majority.
