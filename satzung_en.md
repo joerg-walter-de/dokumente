@@ -33,12 +33,12 @@
 #### § 3 SELFLESSNESS
 * Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung (§ 51 ff. AO).
 * Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
-* Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+* No person shall profit from expendituresEs darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 * Sollen ordentliche Mitglieder des Vereins oder Mitglieder der Organe des Vereins für die Ausübung genau zu definierender Tätigkeiten angestellt oder ihre Tätigkeit in anderer Form entlohnt bekommen, so ist hierfür ein Abschluss eines schriftlichen Vertrages erforderlich.
 
 #### § 4 MEMBERSHIP
 * Members can be natural person and legal entities of any legal form.
-* Der Vorstand entscheidet auf Antrag in Textform des Antragstellers über die Aufnahme. Der Vorstand entscheidet nach freiem Ermessen. Der Beschluss wird dem Antragsteller in Textform mitgeteilt. Der Beitritt Jugendlicher bis zur Volljährigkeit bedarf der schriftlichen Zustimmung der Eltern oder der des gesetzlichen Vertreters. Die Mitgliedschaft beginnt mit der Zustellung der Aufnahmebestätigung durch den Vorstand bzw. zum darin genannten Eintrittsdatum.
+* The executive committee Der Vorstand entscheidet auf Antrag in Textform des Antragstellers über die Aufnahme. The executive committee is free in its decision. The decision is made known to the applicant in writing. The admission of minors requires the written approval of the parents or of the legal guardian. The membership starts the service of the confirmation of admission by the executive committee or on the date specified in the conformiation admission.
 * The minimum length of a membership term are a three months. The membership is automatically extended by three monthsDie Mitgliedschaft dauert mindestens ein Quartal eines Jahres, danach verlängert sie sich jeweils um ein Quartal eines Jahres.
 * The membership ends:
   1. for legal entities with their dissolution.
@@ -58,15 +58,15 @@
 * Members are paying fees in accordance with the membership fee regulations. The executive committee may under special cirumstances decide membership fees on a case by case basis by simple majority.
 
 #### § 7 FUNDING
-* The association funds its duties(TODO) and projects through membership fees, donations, allocations and other financial means as long as they are no in contradiction to the nonprofit purposes of the association.
+* The association funds its purposes(TODO) and projects through membership fees, donations, allocations and other financial means as long as they are no in contradiction to the nonprofit purposes of the association.
 * Non-artistic private projects may be realized with the means of the association. In this case fees are charged that have been set by the association.
 
 #### § 8 ORGANS
 * The organs of Welcome Werkstatt are the general meeting and the executive committee.
 
 #### § 9 GENERAL MEETING
-* Die Mitgliederversammlung besteht aus den Mitgliedern von Welcome Werkstatt.
-* Die ordentliche Mitgliederversammlung wird jedes Jahr vom Vorstand einberufen.
+* The general meeting is comprised of the members of Welcome Werkstatt.
+* The regular general meeting is convined annually by the executive committee.
 * Die Einladung zur Mitgliederversammlung ist den Mitgliedern in Textform unter Angabe von Ort, Zeit und Tagesordnung mindestens vier Wochen vorher, bei außerordentlichen Mitgliederversammlungen mindestens zwei Wochen vorher zu übersenden.
 * Es kann eine außerordentliche Mitgliederversammlung einberufen werden. Dazu ist entweder ein Beschluss des Vorstandes oder ein Antrag von einem Drittel der Mitglieder notwendig.
 * Anträge von Mitgliedern, die zusätzlich auf die Tagesordnung gesetzt werden sollen, müssen vom Einladenden mindestens eine Woche vor dem Termin in Textform an alle Mitglieder geschickt werden.
@@ -89,14 +89,14 @@ The general meeting:
 
 
 #### § 11 EXECUTIVE COMMITTEE
-* Die Mitglieder des Vorstandes sind jeweils einzelvertretungsberechtigt.
-* Der Vorstand besteht aus entweder 3 oder 5 Personen und wird auf ein Jahr gewählt. Eine Wiederwahl ist möglich.
+* The members of the executive committee shall be endowed withsole powers of representation.
+* The executive committee has 3 or 5 members and is elected for one year. A reelection is possible.
 * Der Vorstand im Sinne des § 26 BGB besteht aus dem 1. Vorsitzenden, dem 2. Vorsitzenden und dem Schatzmeister.
 * Der Vorstand kann sich eine Geschäftsordnung geben, in der insbesondere Geschäftsverteilung innerhalb des Vorstandes und die gegenseitige Vertretung der Vorstandsmitglieder zu regeln ist.
 * Zu Sitzungen des Vorstandes ist eine Woche vorher in Textform zu laden. Mit dem Einverständnis aller Mitglieder des Vorstandes kann diese Frist verkürzt werden oder ganz entfallen.
-* Der Vorstand ist beschlussfähig, wenn die absolute Mehrheit der Vorstandsmitglieder anwesend ist.
-* Beschlüsse im Vorstand werden mit einfacher Mehrheit gefasst.
-* Beschlüsse des Vorstandes sind zu protokollieren.
+* The executive committee consitutes a quorum if the absolute majority of the executive committee members is present.
+* The executive committee makes decisions by simple majority.
+* Decisions of the executive committee are recorded in writing.
 * Die Vorstandsmitglieder bleiben bis zu ihrer Amtsniederlegung oder Neuwahl im Amt.
 
 #### § 12 RESPONSIBILITIES OF THE EXECUTIVE COMMITTEE
