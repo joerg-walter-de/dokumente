@@ -67,13 +67,13 @@
 #### § 9 GENERAL MEETING
 * The general meeting is comprised of the members of Welcome Werkstatt.
 * The regular general meeting is convined annually by the executive committee.
-* Die Einladung zur Mitgliederversammlung ist den Mitgliedern in Textform unter Angabe von Ort, Zeit und Tagesordnung mindestens vier Wochen vorher, bei außerordentlichen Mitgliederversammlungen mindestens zwei Wochen vorher zu übersenden.
-* Es kann eine außerordentliche Mitgliederversammlung einberufen werden. Dazu ist entweder ein Beschluss des Vorstandes oder ein Antrag von einem Drittel der Mitglieder notwendig.
-* Anträge von Mitgliedern, die zusätzlich auf die Tagesordnung gesetzt werden sollen, müssen vom Einladenden mindestens eine Woche vor dem Termin in Textform an alle Mitglieder geschickt werden.
-* Eine Vertretung eines Mitgliedes durch ein anderes Mitglied ist möglich, wenn die Vertretungsbefugnis schriftlich nachgewiesen werden kann oder unstrittig ist. Nur eine juristische Person kann sich vertreten lassen. Eine natürliche Person kann maximal zusätzlich eine juristische Person vertreten.
-* Die Mitgliederversammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen wurde und mindestens drei Siebtel der stimmberechtigten Mitglieder anwesend ist. Sind weniger als drei Siebtel der stimmberechtigten Mitglieder anwesend, kann die Mitgliederversammlung erneut einberufen werden; sie ist dann ohne Rücksicht auf die Zahl der anwesenden Mitglieder beschlussfähig. Auf diesen Umstand wird in der Einladung hingewiesen.
-* Auf Antrag eines Mitgliedes ist die Abstimmung geheim durchzuführen.
-* Über die Behandlung von Initiativanträgen entscheidet die Mitgliederversammlung. Für die Annahme eines Initiativantrages ist eine 2/3 Mehrheit nötig.
+* The invitation to the general meeting includes location, place and the agenda and must be sent to the members at least four weeks prior to the meetings - or in case of extraordninary general meetings at least two weeks prior to it.
+* An extraordinary general meeting can be convined. That requires the decision of the executive committee or a motion supported by on third of the members.
+* Motions by members that are intended to extend the agenda must be sent to all members in writing at least one week before the meeting.
+* A representation of a member by another member is possible when the representational authority can be proven in writing or when it is undisputed. Only a legal entity can be represented by another member. A natural person can at most represent one legal entity.
+* The general meeting has a quorum when it is properly convined and when at least three seventh of the members with voting right are attending. In case less than three seventh of the members with voting right attending the general meeting may be reconvined; in that case the quorum exists regardless of the number of attending members with voting right. This will be explained in any invition to a general meeting.
+* When requested by any one member a voting must done by secret ballot.
+* The handling of private bills are decided by the general meeting. For the adoption of a private bill a majority of two thirds is necessary.
 
 
 #### § 10 RESPONSIBILITIES OF THE GENERAL MEETING
