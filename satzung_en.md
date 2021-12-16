@@ -33,7 +33,7 @@
 #### § 3 SELFLESSNESS
 * Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung (§ 51 ff. AO).
 * Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
-* No person shall profit from expendituresEs darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+* No person shall profit from expenditures foreign to the purpose of the association or through disproportionately high fees.
 * Sollen ordentliche Mitglieder des Vereins oder Mitglieder der Organe des Vereins für die Ausübung genau zu definierender Tätigkeiten angestellt oder ihre Tätigkeit in anderer Form entlohnt bekommen, so ist hierfür ein Abschluss eines schriftlichen Vertrages erforderlich.
 
 #### § 4 MEMBERSHIP
@@ -91,9 +91,9 @@ The general meeting:
 #### § 11 EXECUTIVE COMMITTEE
 * The members of the executive committee shall be endowed withsole powers of representation.
 * The executive committee has 3 or 5 members and is elected for one year. A reelection is possible.
-* Der Vorstand im Sinne des § 26 BGB besteht aus dem 1. Vorsitzenden, dem 2. Vorsitzenden und dem Schatzmeister.
-* Der Vorstand kann sich eine Geschäftsordnung geben, in der insbesondere Geschäftsverteilung innerhalb des Vorstandes und die gegenseitige Vertretung der Vorstandsmitglieder zu regeln ist.
-* Zu Sitzungen des Vorstandes ist eine Woche vorher in Textform zu laden. Mit dem Einverständnis aller Mitglieder des Vorstandes kann diese Frist verkürzt werden oder ganz entfallen.
+* The executive committee persuent to § 26 BGB consists of the chair person, the vice chair person and the treasurer.
+* The executive committee can give itself procedural rules, that in particular may regulate the duties and rules of representation among the executive committee members.
+* For executive committee meetings invitations must be sent out at least one week prior in writing. With the agreement of all executive committee members this period may be shortened or dropped completly.
 * The executive committee consitutes a quorum if the absolute majority of the executive committee members is present.
 * The executive committee makes decisions by simple majority.
 * Decisions of the executive committee are recorded in writing.
