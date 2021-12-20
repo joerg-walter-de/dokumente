@@ -32,9 +32,9 @@
 
 #### § 3 SELFLESSNESS
 * The association persues exclusively and directly purposes of general benefit persuant to the paragraph „Steuerbegünstigte Zwecke“ of the „Abgabenordnung“ (§ 51 ff. AO).
-* Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Funds of the association must be solely used for purposes conformant to the statute. The members are not receiving any contributions from the funds of the association.
+* The association is selfless; its primary purpose is not commercial viability. Funds of the association must be solely used for purposes conformant to the statute. The members are not receiving any contributions from the funds of the association.
 * No person shall profit from expenditures foreign to the purpose of the association or through disproportionately high fees.
-* Sollen ordentliche Mitglieder des Vereins oder Mitglieder der Organe des Vereins für die Ausübung genau zu definierender Tätigkeiten angestellt oder ihre Tätigkeit in anderer Form entlohnt bekommen, so ist hierfür ein Abschluss eines schriftlichen Vertrages erforderlich.
+* In case ordinary members or members of association organs are to be employed to take on well defined tasks or are to be paid for their activities in other ways, a written contract is required.
 
 #### § 4 MEMBERSHIP
 * Members can be natural person and legal entities of any legal form.
