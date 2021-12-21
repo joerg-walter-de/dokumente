@@ -7,22 +7,22 @@
 * The business year of the assocition is th calendar year.
 
 #### § 2 PURPOSE OF THE ASSOCIATION
-* The purpose of the association is the promotion Zweck des Vereins sind die Förderung von Bildung, sowie der Kunst und Kultur auf den Gebieten der Techniken aus Handwerk und Ingenieurwesen, deren Anwendung, Geschichte und Weiterentwicklung und des selbstständigen und kreativen Umgangs mit Informationstechnologien und Technik im Allgemeinen.
-* Ein weiterer Zweck stellt auch die Förderung der Hilfe für politisch, rassisch oder religiös Verfolgte und für Geflüchtete dar.
-* Im Verein sind alle Technikbegeisterten und Kreativen willkommen, ungeachtet ihres Geschlechts, Alters, ethnischer Zugehörigkeit, Nationalität, sozialer Herkunft, etwaiger Behinderung oder sexuellen Orientierung.
-* Der Satzungszweck wird insbesondere verwirklicht durch:
-  1. Den Aufbau einer offenen Stadtteilwerkstatt, wo vor allem Kunst- und Bildungsprojekte realisiert werden.
-  2. Die Förderung regionaler Wertschöpfung.
-  3. Die fachliche Beratung und Unterstützung im handwerklichen Bereich.
-  4. Wissensvermittlung in den folgenden Bereichen:
-      * Handwerkliche Produktion
-      * Traditionelle und neue Fertigungsverfahren
-      * Werkstoffkunde
-      * Handwerkstechniken
-      * Einsatz neuer Technologien, Computer und neue Medien
-  5. Veranstaltungen von Schulungen und Workshops u.a. zu nachhaltigen Instandhaltungsmaßnahmen von Gebrauchsgegenständen des alltäglichen Lebens und zur wissenschaftlichen Behandlung von aktuellen Entwicklungen in den o.g. Themenbereichen.
+* The purpose of the association is the promotion of education, arts and culture in the domains of craft and engeneering techniques, their application, history and innovation and the autonomous and creative usage of informtion technologies and technology in general.
+* Another purpose is the support of politically, racially or religiously persecuted and of refugees.
+* In the association all technology enthusiasts and creatives are welcome regardless of their gender, age, ethnicity, nationality, social background, possible disabilities or sexual orientation.
+* The purposes laid out in the statute are realized in particular through:
+  1. The establishment of an open workshop in which in particular art projects and educational projects will be realized.
+  2. The promotion of regional value creation.
+  3. Providing competent advice in artisanal fields.
+  4. Knowledge transfer in the following areas:
+      * Artisanal production
+      * Traditional and modern production processes
+      * Materials technology
+      * Craft techniques
+      * Application of new technologies, computers and new media
+  5. Organizing training and workshops among other things for the sustainable maintenance of every day commodities and PriviVeranstaltungen von Schulungen und Workshops u.a. zu nachhaltigen Instandhaltungsmaßnahmen von Gebrauchsgegenständen des alltäglichen Lebens und zur wissenschaftlichen Behandlung von aktuellen Entwicklungen in den o.g. Themenbereichen.
   6. Vernetzung von und mit bestehenden Gruppen und Projekten, z.B. Anwender-Gruppen, Stammtischen, Werkstätten, Künstlergruppen und wissenschaftlichen Einrichtungen.
-  7. Gezielte Ansprache von geflüchteten Personen z.B. in Folgeunterkünften mit Angebot von handwerklichen Freizeitaktivitäten zu Integrations- und Austauschzwecken.
+  7. Targeted addressing of refugees e.g. in refugee hostels by offering artisanal leasure activities for integrational and exchange purposes.
   8. Förderprojekte im Rahmen spezieller Veranstaltungen und Kooperationen mit ehrenamtlichen Bürgerinitiativen, Bildungseinrichtungen und Vereinen im Bereich Flüchtlingshilfe zum Zwecke der Integration.
   9. Einbindung künstlerischer Arbeiten in das Vereinsleben insbesondere durch:
       * Ausstellung und Präsentation künstlerischer Arbeiten in den Vereinsräumen.
@@ -39,7 +39,7 @@
 #### § 4 MEMBERSHIP
 * Members can be natural person and legal entities of any legal form.
 * The executive committee Der Vorstand entscheidet auf Antrag in Textform des Antragstellers über die Aufnahme. The executive committee is free in its decision. The decision is made known to the applicant in writing. The admission of minors requires the written approval of the parents or of the legal guardian. The membership starts the service of the confirmation of admission by the executive committee or on the date specified in the conformiation admission.
-* The minimum length of a membership term are a three months. The membership is automatically extended by three monthsDie Mitgliedschaft dauert mindestens ein Quartal eines Jahres, danach verlängert sie sich jeweils um ein Quartal eines Jahres.
+* The minimum length of a membership term are a three months. The membership is automatically extended by three months.
 * The membership ends:
   1. for legal entities with their dissolution.
   2. for natural persons with their death.
