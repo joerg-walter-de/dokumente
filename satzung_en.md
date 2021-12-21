@@ -20,9 +20,9 @@
       * Materials technology
       * Craft techniques
       * Application of new technologies, computers and new media
-  5. Organizing training and workshops among other things for the sustainable maintenance of every day commodities and PriviVeranstaltungen von Schulungen und Workshops u.a. zu nachhaltigen Instandhaltungsmaßnahmen von Gebrauchsgegenständen des alltäglichen Lebens und zur wissenschaftlichen Behandlung von aktuellen Entwicklungen in den o.g. Themenbereichen.
-  6. Vernetzung von und mit bestehenden Gruppen und Projekten, z.B. Anwender-Gruppen, Stammtischen, Werkstätten, Künstlergruppen und wissenschaftlichen Einrichtungen.
-  7. Targeted addressing of refugees e.g. in refugee hostels by offering artisanal leasure activities for integrational and exchange purposes.
+  5. Organizing training and workshops among other things for the sustainable maintenance of every day items and for the scientific understanding of new developments in the above mentioned fields.
+  6. Networking with existing groups and projects, e.g. user groups, regular meets, artist groups and scientific institutions.
+  7. Targeted approaching of refugees e.g. in refugee hostels by offering artisanal leasure activities for integrational and exchange purposes.
   8. Förderprojekte im Rahmen spezieller Veranstaltungen und Kooperationen mit ehrenamtlichen Bürgerinitiativen, Bildungseinrichtungen und Vereinen im Bereich Flüchtlingshilfe zum Zwecke der Integration.
   9. Einbindung künstlerischer Arbeiten in das Vereinsleben insbesondere durch:
       * Ausstellung und Präsentation künstlerischer Arbeiten in den Vereinsräumen.
