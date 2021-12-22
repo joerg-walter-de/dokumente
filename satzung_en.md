@@ -23,11 +23,11 @@
   5. Organizing training and workshops among other things for the sustainable maintenance of every day items and for the scientific understanding of new developments in the above mentioned fields.
   6. Networking with existing groups and projects, e.g. user groups, regular meets, artist groups and scientific institutions.
   7. Targeted approaching of refugees e.g. in refugee hostels by offering artisanal leasure activities for integrational and exchange purposes.
-  8. Förderprojekte im Rahmen spezieller Veranstaltungen und Kooperationen mit ehrenamtlichen Bürgerinitiativen, Bildungseinrichtungen und Vereinen im Bereich Flüchtlingshilfe zum Zwecke der Integration.
-  9. Einbindung künstlerischer Arbeiten in das Vereinsleben insbesondere durch:
-      * Ausstellung und Präsentation künstlerischer Arbeiten in den Vereinsräumen.
-      * Integration künstlerischer Elemente in die Einrichtung der Vereinsräume.
-      * Bereitstellung von Arbeitsräumen/-materialien und Wissensvermittlung für Künstler.
+  8. Funding projects in the context of special events and cooprorations with local initiatives, educational institutions and associations in the field of refugee relief for integrational purposes.
+  9. Integration of artistic work into the association's activities in particular through:
+      * Exhibitions and presentations in the association facilities.
+      * Integration of artistic work into the shaping of the association workshop.
+      * Provisioning of working space and working material and the knowledge transfer for artists.
 
 
 #### § 3 SELFLESSNESS
@@ -46,7 +46,7 @@
   3. after cancellation declared by the member to the executive committee. The cancellation must be filed at least 14 days before the end of the membership term. The obligation to pay membership fees for the current quarter remains. The cancellation must be declared in writing.
   4. automatically for members who are behind schedule with their membership fee payments for more than three months.
   5. by expulsion.
-* The membership can be a supporting membership. Supporting members have no vorting right in general meetings. The supporting membership can chosen upon admission into the association. Members can switch from ordinary membership to supporting membership and vice versa at any time. The switch must be announced to the executive committee in writing. The switch comes into effect on receipt of the application.
+* The membership can be a supporting membership. Supporting members have no voting right in general meetings. The supporting membership can chosen upon admission into the association. Members can switch from ordinary membership to supporting membership and vice versa at any time. The switch must be announced to the executive committee in writing. The switch comes into effect on receipt of the application.
 * All ordinary members have the right to attend public association events and to draw on the association services. They have rights and duties codified in this statute. In particular they have the right to vote.
 
 
