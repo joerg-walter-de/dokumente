@@ -3,12 +3,12 @@
 #### § 1 NAME, SEAT, LEGAL CAPACITY, BUSINESS YEAR
 * The association has the name „Welcome Werkstatt“.
 * Seat of the association is Hamburg.
-* The assocition Welcome Werkstatt will be registered at the competent district court and will bear the name suffix e.V. from thereon.
-* The business year of the assocition is th calendar year.
+* The association Welcome Werkstatt will be registered at the competent district court and will bear the name suffix e.V. from thereon.
+* The business year of the assocition is the calendar year.
 
 #### § 2 PURPOSE OF THE ASSOCIATION
 * The purpose of the association is the promotion of education, arts and culture in the domains of craft and engeneering techniques, their application, history and innovation and the autonomous and creative usage of informtion technologies and technology in general.
-* Another purpose is the support of politically, racially or religiously persecuted and of refugees.
+* Another purpose is the support of politically, racially or religiously persecuted persons and of refugees.
 * In the association all technology enthusiasts and creatives are welcome regardless of their gender, age, ethnicity, nationality, social background, possible disabilities or sexual orientation.
 * The purposes laid out in the statute are realized in particular through:
   1. The establishment of an open workshop in which in particular art projects and educational projects will be realized.
@@ -114,4 +114,4 @@ The general meeting:
 * In the event of any inconsistencies between the German and the English version of these bylaws, the German version shall prevail and be legally binding.
 
 Version of 14.03.2020
-Translation of 13.11.2021
+Translation of 01.01.2022
