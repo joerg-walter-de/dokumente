@@ -1,37 +1,37 @@
 # STATUTE OF THE ASSOCIATION WELCOME WERKSTATT E.V.
 
 #### § 1 NAME, SEAT, LEGAL CAPACITY, BUSINESS YEAR
-* The association has the name „Welcome Werkstatt“.
+* The name of the association is "Welcome Werkstatt".
 * Seat of the association is Hamburg.
-* The association Welcome Werkstatt will be registered at the competent district court and will bear the name suffix e.V. from thereon.
-* The business year of the assocition is the calendar year.
+* The association Welcome Werkstatt will be registered at the competent district court and will bear the suffix e.V. from thereon.
+* The business year of the association is the calendar year.
 
 #### § 2 PURPOSE OF THE ASSOCIATION
-* The purpose of the association is the promotion of education, arts and culture in the domains of craft and engeneering techniques, their application, history and innovation and the autonomous and creative usage of informtion technologies and technology in general.
-* Another purpose is the support of politically, racially or religiously persecuted persons and of refugees.
-* In the association all technology enthusiasts and creatives are welcome regardless of their gender, age, ethnicity, nationality, social background, possible disabilities or sexual orientation.
-* The purposes laid out in the statute are realized in particular through:
-  1. The establishment of an open workshop in which in particular art projects and educational projects will be realized.
-  2. The promotion of regional value creation.
-  3. Providing competent advice in artisanal fields.
-  4. Knowledge transfer in the following areas:
-      * Artisanal production
+* The purpose of the association is: the promotion of education, as well as art and culture as it pertains to techniques developed from crafts and engineering, their application, history and future innovation; and the autonomous and creative usage of information technologies and technology in general.
+* A further purpose is to promote support for people persecuted on political, racial or religious grounds.
+* In the association all technology enthusiasts and creatives are welcome regardless of their gender, age, ethnicity, nationality, social background, ability or sexual orientation.
+* The purposes laid out in the statute will be realized in particular by:
+  1. Establishing a community-run workshop primarily for art and educational projects.
+  2. Adding value to the local community.
+  3. Providing competent advice for practicing various crafts.
+  4. Sharing skills and know-how in the following areas:
+      * Practicing crafts
       * Traditional and modern production processes
       * Materials technology
-      * Craft techniques
+      * The specialized techniques needed in crafts
       * Application of new technologies, computers and new media
-  5. Organizing training and workshops among other things for the sustainable maintenance of every day items and for the scientific understanding of new developments in the above mentioned fields.
-  6. Networking with existing groups and projects, e.g. user groups, regular meets, artist groups and scientific institutions.
-  7. Targeted approaching of refugees e.g. in refugee hostels by offering artisanal leasure activities for integrational and exchange purposes.
-  8. Funding projects in the context of special events and cooprorations with local initiatives, educational institutions and associations in the field of refugee relief for integrational purposes.
-  9. Integration of artistic work into the association's activities in particular through:
-      * Exhibitions and presentations in the association facilities.
-      * Integration of artistic work into the shaping of the association workshop.
-      * Provisioning of working space and working material and the knowledge transfer for artists.
+  5. Organizing, among other things, training events and workshops for the sustainable maintenance of every day items, and events for the scientific understanding of new developments in the above mentioned fields.
+  6. Networking with existing groups and projects, e.g. user groups, regular meets, workshops, artist groups, and scientific institutions.
+  7. Seeking out and taking up contact with refugees, for instance those in refugee hostels, and aiding integration and exchange by offering activities around crafts as a hobby or pastime.
+  8. Funding projects in the form of special events and cooperating with local initiatives, educational institutions and associations active in providing assistance to refugees with the aim of aiding integration.
+  9. Integrating artistic work into the association's activities in particular by:
+      * Hosting exhibitions and presentations in the association's facilities.
+      * Integrating artistic work into the association's workshop.
+      * Providing workspace and materials for artists and facilitating the transfer of knowledge.
 
 
 #### § 3 SELFLESSNESS
-* The association persues exclusively and directly purposes of general benefit persuant to the paragraph „Steuerbegünstigte Zwecke“ of the „Abgabenordnung“ (§ 51 ff. AO).
+* The association pursues exclusively and directly purposes of general benefit pursuant to the paragraph „Steuerbegünstigte Zwecke“ of the „Abgabenordnung“ (§ 51 ff. AO).
 * The association is selfless; its primary purpose is not commercial viability. Funds of the association must be solely used for purposes conformant to the statute. The members are not receiving any contributions from the funds of the association.
 * No person shall profit from expenditures foreign to the purpose of the association or through disproportionately high fees.
 * In case ordinary members or members of association organs are to be employed to take on well defined tasks or are to be paid for their activities in other ways, a written contract is required.
